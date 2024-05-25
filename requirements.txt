@@ -1,6 +1,3 @@
-Flask
-tensorflow
-numpy
-opencv-python-headless
 Flask==2.0.1
-gunicorn==20.1.0
+tensorflow==2.7.0
+opencv-python==4.5.5.62
