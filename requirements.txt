@@ -2,3 +2,4 @@ Flask==2.0.1
 tensorflow
 opencv-python==4.5.5.62
 gunicorn
+werkzeug==2.0.3
